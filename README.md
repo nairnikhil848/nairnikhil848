@@ -41,7 +41,7 @@
 [linkedin]: www.linkedin.com/in/nikhil-nair-174796197/
 [facebook]: https://www.facebook.com/nikhil.nair.50767
 [VSCODE]: https://code.visualstudio.com/
-[HTML]:https://devdocs.io/html/
+[HTML]: https://devdocs.io/html/
 [CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [JAVASCRIPT]: https://devdocs.io/javascript/
 [DJANGO]: https://docs.djangoproject.com/en/3.1/
