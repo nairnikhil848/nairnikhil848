@@ -39,5 +39,5 @@
 [youtube]: https://youtube.com/codeSTACKr -->
 
 [instagram]: https://www.instagram.com/nikhil.nair_md/
-[linkedin]: www.linkedin.com/in/nikhil-nair-174796197/
+[linkedin]: https://www.linkedin.com/in/nikhil-nair-174796197/
 [facebook]: https://www.facebook.com/nikhil.nair.50767
