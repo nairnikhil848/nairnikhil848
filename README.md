@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem1-git-master.nairnikhil848.vercel.app/" alt="  Spotify Playing" width="350" />](https://open.spotify.com/user/31blcmb3wzhfxj4o3hem42ugwcxe?si=rbhr_BPDTsCGS-qWjEftMQz)
+[<img src="https://novatorem1-git-master.nairnikhil848.vercel.app/api/now-playing" alt="  Spotify Playing" width="350" />](https://open.spotify.com/user/31blcmb3wzhfxj4o3hem42ugwcxe?si=rbhr_BPDTsCGS-qWjEftMQz)
 
 ### Connect with me:
 
