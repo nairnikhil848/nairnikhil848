@@ -11,6 +11,8 @@
 
 [<img src="https://novatorem1-git-master.nairnikhil848.vercel.app/api/now-playing" alt="  Spotify Playing" width="350" />](https://open.spotify.com/user/31blcmb3wzhfxj4o3hem42ugwcxe?si=rbhr_BPDTsCGS-qWjEftMQz)
 
+[![Spotify](https://novatorem1.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 ### Connect with me:
 
 [<img align="left" alt="Nikhil | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/transparent-on-dark-grey/500/icon-02-512.png" />][facebook]
