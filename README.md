@@ -1,6 +1,6 @@
-### Hi there, I'm Nikhil Nair - aka [ MAD_DOG™] 👋
+### Welcome, I'm Nikhil Nair - aka [ MAD_DOG™] 👋
 
-## I'm a Student and maybe a Developer!
+## I'm a Undergad Student and I'm into Coding!
 
 - 🔭 I'm currently using VS-code as platform for coding!
 - 🌱 I would never stop coding even if end of the world is near🤣
