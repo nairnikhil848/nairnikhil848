@@ -6,6 +6,7 @@
 - 🌱 I would never stop coding even if end of the world is near🤣
 - 🥅 Life Goals: To have fun in everything I do 😇
 - ⚡ Fun fact: I love to draw and play dota🎮,chess♟
+- 💡  Currently Seeking Ideas!
 
 ### Spotify Playing 🎧
 
