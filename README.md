@@ -7,7 +7,7 @@
 
 </h1>
 <h2 align='center'>I'm Nikhil Nair - aka [ MAD_DOG™]</h2>
-<h2 align='center'> I'm a Undergad Student and I'm into Coding!</h2>
+<h2 align='center'> I'm a Undergad Student and I'm into Coding!<img src="https://github.com/nairnikhil848/nairnikhil848/blob/master/Assests/Developer.gif" width="50px"></h2>
 
 <br>
 
