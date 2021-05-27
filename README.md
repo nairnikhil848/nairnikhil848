@@ -26,7 +26,7 @@
 
 [![Spotify](https://novatorem1.vercel.app/api/spotify)](https://open.spotify.com/user/31blcmb3wzhfxj4o3hem42ugwcxe?si=rbhr_BPDTsCGS-qWjEftMQz)
 
-### Connect with me:
+### Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 [<img align="left" alt="Nikhil | facebook" width="80px" height="30px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="Nikhil | LinkedIn" width="80px" height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
