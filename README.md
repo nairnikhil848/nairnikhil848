@@ -23,7 +23,7 @@
 
 <h2 align='left' style="color:red;"> Spotify Playing 🎧</h2>
 
-<img align="right" width=350px height=200px alt="side_sticker" src="https://github.com/nairnikhil848/nairnikhil848/blob/master/Assests/tumblr_mtgwng6olY1r2gj2ro1_500_o.gif" />
+<img align="right" width=300px height=200px alt="side_sticker" src="https://github.com/nairnikhil848/nairnikhil848/blob/master/Assests/tumblr_mtgwng6olY1r2gj2ro1_500_o.gif" />
 
 
 [![Spotify](https://novatorem1.vercel.app/api/spotify)](https://open.spotify.com/user/31blcmb3wzhfxj4o3hem42ugwcxe?si=rbhr_BPDTsCGS-qWjEftMQz)
